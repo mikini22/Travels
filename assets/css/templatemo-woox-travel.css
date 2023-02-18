@@ -150,10 +150,10 @@ body {
 }
 
 .border-button a {
-  font-size: 14px;
-  color: #22b3c1;
+  font-size: 20px;
+  color: #0c0c0c;
   background-color: transparent;
-  border: 1px solid #22b3c1;
+  border: 1px solid #070707;
   padding: 12px 30px;
   display: inline-block;
   border-radius: 25px;
@@ -822,7 +822,7 @@ Banner Style
   background-size: cover;
 }
 #section-1 .content-slider .slider #top-banner-2 {
-  background: url('../images/tobias-reich-0XdWYVDCJZY-unsplash.jpg') no-repeat center center;
+  background: url('../images/damian-patkowski-T-LfvX-7IVg-unsplash.jpg') no-repeat center center;
   background-size: cover;
 }
 #section-1 .content-slider .slider #top-banner-3 {
@@ -830,7 +830,7 @@ Banner Style
   background-size: cover;
 }
 #section-1 .content-slider .slider #top-banner-4 {
-  background: url('../images/things-to-do-in-Nairobi-Kenya.jpg') no-repeat center center;
+  background: url('../images/Nairobi-Parliament-of-Kenya.jpg') no-repeat center center;
   background-size: cover;
 }
 #section-1 .content-slider nav {
@@ -1063,7 +1063,7 @@ Call To Action Style
 
 .call-to-action {
   margin-top: 120px;
-  background-image: url(../images/cta-bg.jpg);
+  background-image: url(../images/tobias-reich-0XdWYVDCJZY-unsplash.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -1072,14 +1072,14 @@ Call To Action Style
 
 .call-to-action h2 {
   font-size: 40px;
-  color: #fff;
+  color: #0d0d0d;
   margin-bottom: 10px;
   text-transform: uppercase;
 }
 
 .call-to-action h4 {
   font-size: 20px;
-  color: #fff;
+  color: #0c0c0c;
   font-weight: 600;
   letter-spacing: 0.5px;
 }
@@ -1090,7 +1090,7 @@ Call To Action Style
 }
 
 .call-to-action .border-button a {
-  color: #fff;
+  color: #0e0d0d;
   border-color: #fff
 }
 
@@ -1137,7 +1137,7 @@ About Page Style
 
 .about-main-content {
   margin-top: 70px;
-  background-image: url(../images/about-content-bg.jpg);
+  background-image: url(../images/shutterstock_1016126908.jpg);
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1852,7 +1852,7 @@ Deals Page Style
 */
 
 .page-heading {
-  background-image: url(../images/heading-bg.jpg);
+  background-image: url(../images/damian-patkowski-T-LfvX-7IVg-unsplash.jpg);
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -2035,7 +2035,7 @@ Reservation Page Style
 */
 
 .second-page-heading {
-  background-image: url(../images/heading-bg-02.jpg);
+  background-image: url(../images/daniel-olah-2lMK4dgqwFM-unsplash.jpg);
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
